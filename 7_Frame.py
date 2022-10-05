@@ -1,8 +1,3 @@
-from calendar import c
-from math import fabs
-from pickletools import pyunicode
-from tkinter import E
-from turtle import back
 import pygame
 
 ##########################################################################################
